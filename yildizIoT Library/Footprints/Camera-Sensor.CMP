@@ -1,0 +1,14 @@
+Component   : BGA55C52P8X7_465X385X74
+PCB Library : Camera-Sensor.PcbLib
+Date        : 08.04.2020
+Time        : 20:15:04
+
+
+
+Dimension : 0.226 x 0.194 in
+
+ Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
+--------------------------------------------------------------------
+ Top Overlay                 0          5        0       1        0
+--------------------------------------------------------------------
+ Total                       0          5        0       1        0
