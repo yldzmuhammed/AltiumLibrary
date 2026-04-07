@@ -1,5 +1,6 @@
-Footprints
-Symbols
 History
-
 *.SchDotPreview
+*.DS_Store
+*.layersetPreview
+*.SchDocPreview
+*.IntLib
