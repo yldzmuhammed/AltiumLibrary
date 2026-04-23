@@ -1619,6 +1619,23 @@ GenerateClassCluster=0
 DocumentUniqueId=GDQHHLRT
 
 [Document94]
+DocumentPath=Footprints\RFI EMI Contacts Fingerstock Gaskets.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OSLABNLE
+
+[Document95]
 DocumentPath=Footprints\RF Switch.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1635,7 +1652,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DFTRCRVD
 
-[Document95]
+[Document96]
 DocumentPath=..\.DS_Store
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1652,7 +1669,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document96]
+[Document97]
 DocumentPath=.DS_Store
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1668,23 +1685,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
-
-[Document97]
-DocumentPath=Footprints\RFI EMI Contacts Fingerstock Gaskets.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=OSLABNLE
 
 [OutputGroup1]
 Name=Netlist Outputs
